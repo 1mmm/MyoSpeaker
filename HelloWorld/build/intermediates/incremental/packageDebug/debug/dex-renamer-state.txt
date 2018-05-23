@@ -1,0 +1,4 @@
+#Fri May 18 11:39:02 CST 2018
+base.0=C\:\\Users\\2mmm\\AndroidStudioProjects\\myo-android-sdk-0.10.0\\samples\\HelloWorld\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+renamed.0=classes.dex
+file.0=C\:\\Users\\2mmm\\AndroidStudioProjects\\myo-android-sdk-0.10.0\\samples\\HelloWorld\\build\\intermediates\\transforms\\dexMerger\\debug\\0\\classes.dex

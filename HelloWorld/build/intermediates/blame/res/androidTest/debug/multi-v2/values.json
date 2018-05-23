@@ -1,0 +1,28 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\2mmm\\AndroidStudioProjects\\myo-android-sdk-0.10.0\\samples\\HelloWorld\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values\\values.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\2mmm\\.gradle\\caches\\transforms-1\\files-1.1\\myosdk-0.10.0.aar\\880df01465630ecd5e6f21dcbf3f8d94\\res\\values\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,10,11,12,13,16,17,18,19,20,21,24,34",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "196,252,305,363,559,625,689,755,962,1015,1078,1161,1233,1302,1503,2105",
+                        "endLines": "4,5,6,7,10,11,12,13,16,17,18,19,20,21,33,34",
+                        "endColumns": "55,52,57,54,65,63,65,64,52,62,82,71,68,59,12,79",
+                        "endOffsets": "247,300,358,413,620,684,750,815,1010,1073,1156,1228,1297,1357,2100,2180"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,26",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,111,164,222,277,343,407,473,538,591,654,737,809,878,938,1540",
+                        "endLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,25,26",
+                        "endColumns": "55,52,57,54,65,63,65,64,52,62,82,71,68,59,12,79",
+                        "endOffsets": "106,159,217,272,338,402,468,533,586,649,732,804,873,933,1535,1615"
+                    }
+                }
+            ]
+        }
+    ]
+}

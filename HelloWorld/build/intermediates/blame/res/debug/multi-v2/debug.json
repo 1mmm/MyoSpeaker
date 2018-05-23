@@ -1,0 +1,64 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\2mmm\\AndroidStudioProjects\\myo-android-sdk-0.10.0\\samples\\HelloWorld\\build\\intermediates\\res\\merged\\debug\\values-sw600dp-v13_values-sw600dp-v13.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\2mmm\\.gradle\\caches\\transforms-1\\files-1.1\\myosdk-0.10.0.aar\\880df01465630ecd5e6f21dcbf3f8d94\\res\\values-sw600dp-v13\\values.xml",
+                    "from": {
+                        "startLines": "4,5,8",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "204,272,488",
+                        "endColumns": "67,66,81",
+                        "endOffsets": "267,334,565"
+                    },
+                    "to": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,123,190",
+                        "endColumns": "67,66,81",
+                        "endOffsets": "118,185,267"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\2mmm\\AndroidStudioProjects\\myo-android-sdk-0.10.0\\samples\\HelloWorld\\build\\intermediates\\res\\merged\\debug\\values_values.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\2mmm\\AndroidStudioProjects\\myo-android-sdk-0.10.0\\samples\\HelloWorld\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "2,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1",
+                        "startColumns": "4,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1",
+                        "startOffsets": "55,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1",
+                        "endColumns": "44,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1",
+                        "endOffsets": "95,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1"
+                    },
+                    "to": {
+                        "startLines": "10,11,12,13,14,21,22,23,24,25,26,27,28",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "538,583,629,677,730,1172,1234,1277,1320,1368,1418,1456,1502",
+                        "endColumns": "44,45,47,52,41,61,42,42,47,49,37,45,68",
+                        "endOffsets": "578,624,672,725,767,1229,1272,1315,1363,1413,1451,1497,1566"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\2mmm\\.gradle\\caches\\transforms-1\\files-1.1\\myosdk-0.10.0.aar\\880df01465630ecd5e6f21dcbf3f8d94\\res\\values\\values.xml",
+                    "from": {
+                        "startLines": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1",
+                        "startColumns": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1",
+                        "startOffsets": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,15,16,17,18,19,20,29,39",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,111,164,222,277,343,407,473,772,825,888,971,1043,1112,1571,2173",
+                        "endLines": "2,3,4,5,6,7,8,9,15,16,17,18,19,20,38,39",
+                        "endColumns": "55,52,57,54,65,63,65,64,52,62,82,71,68,59,12,79",
+                        "endOffsets": "106,159,217,272,338,402,468,533,820,883,966,1038,1107,1167,2168,2248"
+                    }
+                }
+            ]
+        }
+    ]
+}

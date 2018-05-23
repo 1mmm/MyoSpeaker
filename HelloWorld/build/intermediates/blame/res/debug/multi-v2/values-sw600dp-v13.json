@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\2mmm\\AndroidStudioProjects\\myo-android-sdk-0.10.0\\samples\\HelloWorld\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\2mmm\\.gradle\\caches\\transforms-1\\files-1.1\\myosdk-0.10.0.aar\\880df01465630ecd5e6f21dcbf3f8d94\\res\\values-sw600dp-v13\\values.xml",
+                    "from": {
+                        "startLines": "4,5,8",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "204,272,488",
+                        "endColumns": "67,66,81",
+                        "endOffsets": "267,334,565"
+                    },
+                    "to": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,123,190",
+                        "endColumns": "67,66,81",
+                        "endOffsets": "118,185,267"
+                    }
+                }
+            ]
+        }
+    ]
+}
